@@ -29,3 +29,9 @@ ul {
     font-size: 110%;
     font-family: sans-serif;
 }
+
+.strong {
+    font-style: italic;
+    font-size: 50%;
+    color: red;
+}
