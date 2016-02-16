@@ -35,3 +35,15 @@ ul {
     font-size: 50%;
     color: red;
 }
+
+.unimportant {
+    font-family: sans-serif;
+    color: blue;
+    font-style: italic;
+}
+
+.yup {
+    color: red;
+    font-size: 120%;
+    font-family: sans-serif;
+}
