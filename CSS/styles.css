@@ -38,8 +38,9 @@ ul {
 
 .unimportant {
     font-family: sans-serif;
-    color: blue;
+    color: green;
     font-style: italic;
+    font-size: 200%;
 }
 
 .yup {
